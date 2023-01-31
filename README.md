@@ -15,6 +15,12 @@ Hello, My Name is Amer Tahawy & I'm a Full-Stack Developer with MERN STACK & Typ
 - I dream to work in a huge companies like `Google` & `Facebook`
 - I'm Working on programming android & ios Applications
 
+<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahawy111&theme=dark)
+
+
+
 ### 👨‍💻 Top Languages Used*:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahawy111&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahawy111&theme=nord_dark)
