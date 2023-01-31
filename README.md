@@ -10,6 +10,10 @@
 <img src="https://www.linkpicture.com/q/MY-Logo-1.png" align="right" width="25%"/>
 
 
+
+Hello, My Name is Amer Tahawy & I'm a Full-Stack Developer with MERN STACK & TypeScript
+
+
 ### 👨‍💻 Top Languages Used*:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahawy111&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahawy111&theme=nord_dark)
