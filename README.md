@@ -17,7 +17,7 @@ Hello, My Name is Amer Tahawy & I'm a Full-Stack Developer with MERN STACK & Typ
 
 <br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahawy111&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahawy111&theme=github)
 
 
 
