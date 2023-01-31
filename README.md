@@ -32,3 +32,6 @@ Hello, My Name is Amer Tahawy & I'm a Full-Stack Developer with MERN STACK & Typ
 ### 👨‍💻 Top Languages Used*:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahawy111&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahawy111&theme=nord_dark)
+
+---
+ *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
