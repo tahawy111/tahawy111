@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Amer 👋</h1>
+<p align="center">
+  <!--  <a target="_blank" href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>-->
+    <a target="_blank" href="https://www.linkedin.com/in/amer-mohammed-b1124b21b/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a target="_blank" href="https://www.youtube.com/channel/UCqtt3IsT4M6byJ8E2PjiBrw"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a target="_blank" href="https://www.instagram.com/tahawy111/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+        <a target="_blank" href="https://web.facebook.com/profile.php?id=100011964761632"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>Facebook</a>
+  </p>
 
-<!--
-**tahawy111/tahawy111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
