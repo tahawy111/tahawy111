@@ -7,6 +7,7 @@
         <a target="_blank" href="https://web.facebook.com/profile.php?id=100011964761632"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
   </p>
 
+<img src="https://www.linkpicture.com/q/MY-Logo-1.png" align="right" width="25%"/>
 
 
 Here are some ideas to get you started:
