@@ -16,7 +16,7 @@ Hello, My Name is Amer Tahawy & I'm a Full-Stack Developer with MERN STACK & Typ
 - I'm Working on programming android & ios Applications
 - My Best Projects
    - [Cool Blog](https://blog-application-tahawy111.vercel.app/) This Website Shows To You a full stack web application you can add blogs, you can read blogs, you can comment on blog, and it gives you a fully autentication proccess
-   - [بلوك النتيجة ببلاش](https://islamic-adhan.netlify.app/) this is an website & android app gives to you a prayer times and from this link you can download the android app [Link](https://github.com/tahawy111/adhan-app/blob/main/app-debug.apk) 
+   - [بلوك النتيجة ببلاش](https://islamic-adhan.netlify.app/) this is an website & android app gives to you a prayer times for egyption governoments and from this link you can download the android app [Link](https://github.com/tahawy111/adhan-app/blob/main/app-debug.apk) 
 
 
 <br/>
