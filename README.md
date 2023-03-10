@@ -9,7 +9,6 @@
 <img src="https://www.linkpicture.com/q/MY-Logo-1.png" align="right" width="25%"/>
 
 
-
 Hello, My Name is Amer Tahawy & I'm a Full-Stack Developer with MERN STACK & TypeScript
 - I dream to work in a huge companies like `Google` & `Facebook`
 - I'm Working on programming android & ios Applications
