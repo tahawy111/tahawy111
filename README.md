@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Amer 👋</h1>
 <p align="center"
-<!-- <a target="_blank" href="https://www.linkedin.com/in/amer-eltahawy/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<!-- 
+<a target="_blank" href="https://www.linkedin.com/in/amer-eltahawy/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 -->
         <a target="_blank" href="https://www.linkedin.com/in/amer-eltahawy/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a target="_blank" href="https://www.youtube.com/channel/UCqtt3IsT4M6byJ8E2PjiBrw"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
