@@ -4,6 +4,7 @@
     <a target="_blank" href="https://www.youtube.com/channel/UCqtt3IsT4M6byJ8E2PjiBrw"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a target="_blank" href="https://www.instagram.com/tahawy111/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
         <a target="_blank" href="https://web.facebook.com/profile.php?id=100011964761632"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white"/></a>
+        <a target="_blank" href="https://www.npmjs.com/~tahawy111"><img src="https://img.shields.io/badge/NPM-white?style=plastic&logo=npm&label=profile"/></a>
   </p>
 
 <img src="https://www.linkpicture.com/q/MY-Logo-1.png" align="right" width="25%"/>
